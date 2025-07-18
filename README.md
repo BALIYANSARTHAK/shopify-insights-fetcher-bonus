@@ -81,20 +81,6 @@ Go to: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 └── final_report.pdf
 ```
 
----
-
-## 📸 Screenshots
-
-> _(Insert screenshots of Swagger UI, Frontend Dashboard, Competitor Analysis, etc.)_
-
----
-
-## 📄 Final Report
-
-The complete project report is available here:  
-👉 [`final_report.pdf`](./final_report.pdf)
-
----
 
 ## 🙌 Acknowledgements
 
@@ -106,8 +92,7 @@ This project was developed as part of a **GenAI Developer Internship Assignment*
 
 **Sarthak Baliyan**  
 📍 Roorkee, India  
-🌐 [LinkedIn](https://www.linkedin.com/in/sarthak-baliyan/)  
-📧 sarthak.baliyan@example.com
+📧 2003baliyansarthak@gmail.com
 
 ---
 
